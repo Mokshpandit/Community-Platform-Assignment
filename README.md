@@ -1,7 +1,8 @@
 # Community-Platform-Assignment
 💻 Task: Build a Mini LinkedIn-like Community Platform
 Required Features:
-	1.	User Authentication
+	
+ 	1.	User Authentication
 
 	•	Register/Login (Email & Password)
 	•	Profile with name, email, bio
